@@ -5,7 +5,8 @@ permalink: /about/
 ---
 ### More Information
 
-GitHub : github.com/kyn320
+GitHub : [github.com/kyn320](https://raw.githubusercontent.com/barryclark/www.jekyllnow.com/gh-pages/_posts/2014-6-19-Markdown-Style-Guide.md).
+
 
 ### Contact me
 
